@@ -289,10 +289,6 @@
     margin: 10px 0 10px 30px;
 }
 
-.hide{
-    display: none;
-}
-
 /* responsive for mobile */
 
 @media screen and (max-width: 576px) {
